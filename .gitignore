@@ -37,7 +37,7 @@ yarn-error.log
 testem.log
 /typings
 
-/src/evironments/environment.ts
+/src/evironments/
 
 # System files
 .DS_Store
