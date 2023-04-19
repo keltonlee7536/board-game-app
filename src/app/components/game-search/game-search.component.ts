@@ -1,10 +1,15 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-game-search',
   templateUrl: './game-search.component.html',
   styleUrls: ['./game-search.component.scss']
 })
-export class GameSearchComponent {
+export class GameSearchComponent implements OnInit {
+  searchText: string;
 
+  constructor() { }
+
+  ngOnInit(): void {
+  }
 }
