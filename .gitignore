@@ -40,7 +40,7 @@ testem.log
 ./src/evironments/environment.ts
 /src/evironments/environment.ts
 /src/evironments/environment.development.ts
-
+/src/evironments/
 
 # System files
 .DS_Store
