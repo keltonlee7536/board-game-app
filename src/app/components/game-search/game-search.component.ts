@@ -8,6 +8,7 @@ import { GameService } from 'src/app/services/game.service';
   styleUrls: ['./game-search.component.scss']
 })
 export class GameSearchComponent implements OnInit {
+   // @ts-ignore
   searchText: string;
   games: Game[] = [];
 

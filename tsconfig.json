@@ -23,8 +23,9 @@
       "ES2022",
       "dom"
     ],
-    // "suppressImplicitAnyIndexErrors": true,
+
   },
+
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
